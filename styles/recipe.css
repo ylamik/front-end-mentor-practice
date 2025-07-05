@@ -1,5 +1,8 @@
 body{
     background-color: hsl(30, 54%, 90%);
+    font-family: outfit;
+    font-size: 16px;
+    color:hsl(30, 10%, 34%);
 }
 
 .recipe-border{
@@ -15,4 +18,29 @@ body{
 
 .food-image{
     border-radius: 5px;
+}
+
+.title{
+    color:hsl(24, 5%, 18%);
+    font-family: young serif;
+    font-size:30px;
+    font-weight: 100;
+}
+
+.time{
+    color:hsl(332, 51%, 32%);
+    font-weight: 500;
+    font-size: 17px;
+}
+
+.recipe, .instructions, .nutrition-title{
+    color:hsl(14, 45%, 36%);
+    font-weight: 400;
+    font-family: young serif;
+    font-size: 20px;
+}
+
+.value-one,.value-two, .value-three,.value-four{
+    color:hsl(14, 45%, 36%);
+    font-weight: 700;
 }
