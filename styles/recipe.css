@@ -8,7 +8,7 @@ body{
 .recipe-border{
     background-color:  hsl(0, 0%, 100%);
     margin: auto;
-    width:500px;
+    width:650px;
     display: flex;
     flex-direction:column;
     padding:25px 25px 25px 25px;
@@ -31,6 +31,7 @@ body{
     color:hsl(332, 51%, 32%);
     font-weight: 500;
     font-size: 17px;
+    margin-left: 20px;
 }
 
 .recipe, .instructions, .nutrition-title{
@@ -59,4 +60,16 @@ body{
     margin-left: 4px;
 }
 
+.preparation-time{
+    background-color: hsla(322, 94%, 79%, 0.122);
+    border-radius: 5px;
+}
 
+.list-preparation{
+    margin-top:-10px;
+    line-height: 30px;
+}
+
+li{
+    line-height: 30px;
+}
