@@ -54,7 +54,7 @@ body{
 .nutri{
     display: flex;
     justify-content:space-between;
-    margin-left: 30px;
+    margin-left: 35px;
 }
 
 .value-two,.value-three{
@@ -81,5 +81,13 @@ li{
 
 h2{
     margin-top:30px;
+}
+
+.desc{
+    margin-bottom:20px;
+}
+
+hr{
+    border-style:groove;
 }
 
