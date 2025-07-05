@@ -25,6 +25,11 @@ body{
     font-family: young serif;
     font-size:30px;
     font-weight: 100;
+    margin-bottom: -1px;
+}
+
+.description{
+    margin-bottom:35px;
 }
 
 .time{
@@ -73,3 +78,8 @@ body{
 li{
     line-height: 30px;
 }
+
+h2{
+    margin-top:30px;
+}
+
